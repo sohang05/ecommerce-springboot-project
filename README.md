@@ -67,8 +67,8 @@ mvn spring-boot:run
 Contributing:
 Feel free to submit a pull request or raise an issue if you find any bugs or want to contribute to the project.
 
-License:
-This project is licensed under the MIT License
+### License:
+- This project is licensed under the MIT License
 
 
 ##### Happy Coding!!!
